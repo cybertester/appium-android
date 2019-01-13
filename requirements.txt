@@ -1,0 +1,6 @@
+Appium-Python-Client
+pytest
+behave
+sauceclient
+saucestorage
+pyotp==2.2.6
